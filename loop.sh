@@ -9,4 +9,3 @@ echo $sum
 echo $sum
 exit
 exit
-exit
