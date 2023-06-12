@@ -6,4 +6,3 @@ for(i=0; i< num;i++){
 }
 echo $sum
 exit
-exit
