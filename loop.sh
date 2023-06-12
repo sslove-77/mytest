@@ -5,6 +5,4 @@ for(i=0; i< num;i++){
 	sum = [[$sum + i]]
 }
 echo $sum
-echo $sum
-echo $sum
 exit
